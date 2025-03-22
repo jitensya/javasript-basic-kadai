@@ -9,16 +9,20 @@ num5 = num%5;
 
 if (num3==0 && num5==0)
 {
-     console.log('3と5の倍数です');
+console.log('3と5の倍数です')
+console.log(num);
 }
 
  else if ( num3 == 0){
- console.log('3の倍数です');
+console.log('3の倍数です')
+console.log(num);
  }
 
 else if (num5 == 0){
-console.log('5の倍数です');
+console.log('5の倍数です')
+console.log(num);
      }
 
-console.log(num);
-
+else {
+    console.log(num);
+}
