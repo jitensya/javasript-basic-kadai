@@ -12,7 +12,6 @@ console.log(num);
 console.log('5の倍数です');
 console.log(num);
 }else{
-console.log('3の倍数でも5の倍数でもありません');
 console.log(num);
 }
 
