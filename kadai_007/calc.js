@@ -1,6 +1,6 @@
 let num = Boolean;
-let num3 = Boolean;
-let num5= Boolean;
+// let num3 = Boolean;
+// let num5= Boolean;
 num = Math.floor(Math.random()*50+1);
 
 
@@ -24,3 +24,6 @@ console.log('5の倍数です');
 console.log(num);
 }
 
+else {
+    console.log(num);
+}
