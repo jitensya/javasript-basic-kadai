@@ -2,7 +2,7 @@ const holidays = ["正月","成人の日","建国記念日","天皇誕生日","�
 const holidaysLength = holidays.length ;
 // for文の場合
 
-for (let i = 0 ; i<= holidaysLength; i++ ){
+for (let i = 0 ; i < holidaysLength; i++ ){
      console.log(holidays[i]);
 }
 
