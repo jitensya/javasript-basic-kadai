@@ -4,11 +4,11 @@
 // const bt2 = document.createElement();
 // textContent = "ボタンをクリックしました";
 // });
-const Btn = document.getElementById("btn");
-const comment = "ボタンをクリックしました";
+const btn = document.getElementById("btn");
 
-Btn.addEventstener("click",() =>{
-    textContent. "comment";
+
+btn.addEvenListener("click",(btn) =>{
+textContent = "ボタンをクリックしました";
 });
 
 
