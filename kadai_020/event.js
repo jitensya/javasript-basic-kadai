@@ -5,10 +5,10 @@
 // textContent = "ボタンをクリックしました";
 // });
 const btn = document.getElementById("btn");
+const text = document.getElementById("text");
 
-
-btn.addEvenListener("click",(btn) =>{
-textContent = "ボタンをクリックしました";
+btn.addEventListener("click",function() {
+text.textContent ="ボタンをクリックしました";
 });
 
 
