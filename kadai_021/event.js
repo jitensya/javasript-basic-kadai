@@ -8,4 +8,4 @@ text.textContent ='ボタンをクリックしました'),},10000);
 btn.addEventListener('click',function (){
  setTimeout(()=> {
     text.textContent =('ボタンをクリックしました');   
- },1000)}); 
+ },2000)}); 
